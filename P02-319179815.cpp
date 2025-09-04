@@ -1,4 +1,5 @@
-//Práctica 2: índices, mesh, proyecciones, transformaciones geométricas
+//Práctica 2 - MAGALLY ESCAMILLA SUÁREZ
+
 #include <stdio.h>
 #include <string.h>
 #include<cmath>
